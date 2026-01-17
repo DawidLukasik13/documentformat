@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emails>
-    <mail>
-    <!-- sender, recipient, subject and message body.-->
-        <sender>Dawid</sender>
-        <recipient>ChinChang</recipient>
-        <subject>Co bylo zadane</subject>
-        <message_body>Napisz mi co bylo</message_body>
-    </mail>
+<div style="border: 1px solid gray; padding: 20px; font-family: Arial, sans-serif;">
+    
+    <h2>Temat: Co było zadane</h2>
+    
+    <p><strong>Od:</strong> Dawid</p>
+    <p><strong>Do:</strong> ChinChang</p>
+    
+    <hr> <p>Napisz mi co było</p>
+    
+</div>
 </emails>
+
