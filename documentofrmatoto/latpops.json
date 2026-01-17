@@ -1,0 +1,13 @@
+{
+  "marka": "Dell",
+  "model": "Inspiron 15",
+  "rok": 2023,
+  "isTouchscreen": false,
+  "urzadzenia": [
+    "touchpad",
+    "kamera internetowa"
+  ],
+  "cena": 2999.99,
+  "kolorObudowy": "Srebrny",
+  "czyNaGwarancji": true
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transport>
+    <vehicle brand="Tesla" model="Cybertruck" releaseYear="2023">
+        <specs>
+            <height>1.5m</height>
+            <batteryCapacity unit="mAh">150000</batteryCapacity>
+            <vmax unit="km/h">200</vmax>
+        </specs>
+        <price currency="USD">79900</price>
+    </vehicle>
+
+    <vehicle brand="Toyota" model="Camry" releaseYear="2022">
+        <specs>
+            <height>1.45m</height>
+            <batteryCapacity unit="mAh">0</batteryCapacity> <vmax unit="km/h">210</vmax>
+        </specs>
+        <price currency="USD">26000</price>
+    </vehicle>
+
+    <vehicle brand="Ford" model="Mustang Mach-E" releaseYear="2021">
+        <specs>
+            <height>1.6m</height>
+            <batteryCapacity unit="mAh">88000</batteryCapacity>
+            <vmax unit="km/h">180</vmax>
+        </specs>
+        <price currency="USD">43000</price>
+    </vehicle>
+
+    <vehicle brand="Volkswagen" model="Golf 8" releaseYear="2020">
+        <specs>
+            <height>1.49m</height>
+            <batteryCapacity unit="mAh">0</batteryCapacity>
+            <vmax unit="km/h">224</vmax>
+        </specs>
+        <price currency="EUR">28500</price>
+    </vehicle>
+</transport>

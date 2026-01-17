@@ -1,0 +1,24 @@
+{
+  "ticket_id": "IC-543892",
+  "carrier": "PKP Intercity",
+  "departure_station": "Warszawa Centralna",
+  "arrival_station": "Kraków Główny",
+  "date": "2024-05-15",
+  "departure_time": "08:45",
+  "platform": 3,
+  "price": 159.99,
+  "currency": "PLN",
+  "is_discounted": false,
+  "seat_number": 42,
+  "class": 2,
+  "amenities": [
+    "WiFi",
+    "Power socket",
+    "Quiet zone"
+  ],
+  "passenger": {
+    "first_name": "Jan",
+    "last_name": "Kowalski",
+    "age": 28
+  }
+}
