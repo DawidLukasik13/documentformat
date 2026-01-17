@@ -1,2 +1,10 @@
-Email
-dawid.lukasik1996@wp.pl
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <mail>
+    <!-- sender, recipient, subject and message body.-->
+        <sender>Dawid</sender>
+        <recipient>ChinChang</recipient>
+        <subject>Co bylo zadane</subject>
+        <message_body>Napisz mi co bylo</message_body>
+    </mail>
+</emails>
